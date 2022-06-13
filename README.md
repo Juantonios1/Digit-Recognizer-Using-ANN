@@ -75,6 +75,11 @@ At this stage there will be try model to predict several sample:
 
 ## Conclusion 
 We conclude our result and give recommendation based on it
+
+* Model Performance
+
+![result](Image/result.png)  <br>
+
 * Summary Model <br>
 
 ![Model Summary](Image/summary_model.png)  <br>
